@@ -1,1 +1,2 @@
 welcome to git 
+it is checking the file in git
